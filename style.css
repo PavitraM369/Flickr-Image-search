@@ -1,0 +1,16 @@
+.heading h2{
+    padding: 30px;
+    text-align: center;
+}
+
+.btn {
+    color: var(--bs-white);
+    background-color:  var(--bs-teal);
+    border: 2px solid green;
+}
+
+.btn:hover{
+    color: var(--bs-teal);
+    background-color: var(--bs-white);
+    border: 2px solid green;
+}
